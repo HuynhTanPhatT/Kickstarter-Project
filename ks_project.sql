@@ -1,18 +1,3 @@
-﻿select top 20 *
-from dbo.Cl_kicks_2016
-
-/* 
-	Data Description
-- ID: Kickstarter project ID
-- name: Name of project
-- category: Category of project
-- main_category: Main category of project
-- goal: Fundraising goal
-- pledged: Amount pledged
-- state: State of project (successful, canceled, etc.)
-- backers: Number of project backers
-*/
-
 select distinct(category)
 from dbo.Cl_kicks_2016
 order by category asc;
@@ -45,6 +30,7 @@ where TABLE_NAME = 'Cl_kicks_2016' and TABLE_SCHEMA = 'dbo';
 --- Tỷ lệ thành công cao là số pct > avg pct
 -- In Kicks Start 2016, Dance accounts the highest sucessful percentage compared to other categories with ~62%. 
 -- Additionally, Theater is on rank 2 with 60%, Comics, Music, Art and Film & Video also with pct unders 60%
+
 with sucess_category as(
 select	[main_category],
 		count(*) as total_projects,
