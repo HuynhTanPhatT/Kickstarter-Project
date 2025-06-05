@@ -24,6 +24,7 @@ a) Are small goals under 1,000 more likely to succeed ?
     - Consider categories such as Dance or Threater,etc which have fewer projects but higher success rates.
 
 b) Which goal range has the highest success rate?
+
  ![image](https://github.com/user-attachments/assets/c6154a2e-eed5-4f9c-8c85-4a1b21c48d4a)
 
 c) What project with a goal over 1000 USD has the biggest goal completion? How much money was pledged?
