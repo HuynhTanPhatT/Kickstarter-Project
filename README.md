@@ -36,5 +36,23 @@ b) Which goal range has the highest success rate?
 - 💡Medium & Large goal ranges are suitable for brands that have their own community to increase their project scale, but still have the high success rate for raising investment.
 - 💡Small Goal is the safe and effective starting point for newcomers in **KickStarter**
 
+3. What is the success rate of fundraising based on the pledged amount and the original goal ? (Pledged / Goal)
+a) Average fundraising effiency by category
+![image](https://github.com/user-attachments/assets/1f324c9c-074f-4811-b774-46a94ace69bf)
+- **Games** ranked one on the board about raising invesment performance **918.72%** compared to the goal 100%. Game projects received huge supports from backers and community.
+- **Music** and **Comics** are potential categories in KickStarter with average rates ~787%, 645%, respectively. Additionally, these categories also in top categories having the high number of successfull projects.
+- **Journalism** & **Photography** seems like difficult to raise fund which only achieved less than 70%.
+- **Dance** had top 1 success rate, however the pledged less than expected **85%**
+- 💡Thourgh the average rates, I guess the trend of communities on Kickstarter leaning to **Entertainment, Creative and Art**. They will consider support projects include these factors rather than news or some outside activities.
+
+
+
+b) Are there many projects that  exceeded their funding goals?
+
+c) Are these failed projects failing because they don't have any backers or funding ?
+
+
+
+
 
 PowerBi - Visualization
