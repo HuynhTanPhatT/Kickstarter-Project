@@ -17,7 +17,6 @@ SQL - Brief descriptions :
 
 2. How does the "goal" amount affect the likelihood of success?
 a) Are small goals under 1,000 more likely to succeed ?
-
 ![image](https://github.com/user-attachments/assets/76e42d0c-e226-413f-8011-e89320dd8393)
 - Small projects fundraised small goals accounts for **52.82%** - 25783 successfull projects
 - 💡A 5% gap between success rate and failure showing that the market is highly competitive. A "50-50" chance is risky for new project fundraisers
@@ -37,19 +36,18 @@ b) Which goal range has the highest success rate?
 - 💡Small Goal is the safe and effective starting point for newcomers in **KickStarter**
 
 3. What is the success rate of fundraising based on the pledged amount and the original goal ? (Pledged / Goal)
-a) Average fundraising effiency by category
 ![image](https://github.com/user-attachments/assets/1f324c9c-074f-4811-b774-46a94ace69bf)
-- **Games** ranked one on the board about raising invesment performance **918.72%** compared to the goal 100%. Game projects received huge supports from backers and community.
-- **Music** and **Comics** are potential categories in KickStarter with average rates ~787%, 645%, respectively. Additionally, these categories also in top categories having the high number of successfull projects.
+- `Games` ranked one  with the average funding rate **918.72%**. This highlights the strong community and supports.
+- `Comics` and **Comics** are potential categories in KickStarter with average rates ~787%, 645%, respectively. Additionally, these categories also in top categories having the high number of successfull projects.
 - **Journalism** & **Photography** seems like difficult to raise fund which only achieved less than 70%.
 - **Dance** had top 1 success rate, however the pledged less than expected **85%**
-- 💡Thourgh the average rates, I guess the trend of communities on Kickstarter leaning to **Entertainment, Creative and Art**. They will consider support projects include these factors rather than news or some outside activities.
+- 💡Overall, the data suggest that the **Kickstarter backers** tend to  favor **Entertainment, Creative and Art** projects(Games, Comics, Music). They show less support for categories like `Journalism` | `Photography`
 
 
 
-b) Are there many projects that  exceeded their funding goals?
+a) Are there many projects that  exceeded their funding goals?
 
-c) Are these failed projects failing because they don't have any backers or funding ?
+b) Are these failed projects failing because they don't have any backers or funding ?
 
 
 
