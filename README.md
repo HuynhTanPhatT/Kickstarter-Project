@@ -16,14 +16,16 @@ SQL - Brief descriptions :
     - 💡More projects do not mean that that category has higher success rates
 
 2. How does the "goal" amount affect the likelihood of success?
-a) Are small goals under 1,000 more likely to succeed ?
+    a) Are small goals under 1,000 more likely to succeed ?
+
 ![image](https://github.com/user-attachments/assets/76e42d0c-e226-413f-8011-e89320dd8393)
+   
     - Small projects fundraised small goals accounts for **52.82%** - 25783 successfull projects
     - 💡A 5% gap between success rate and failure showing that the market is highly competitive. A "50-50" chance is risky for new project fundraisers
         - Show clearly unique values to investors if choose large-community categories.
         - Consider categories such as `Dance` or `Threater` which have fewer projects but higher success rates.
 
-b) Which goal range has the highest success rate?
+    b) Which goal range has the highest success rate?
 
 ![image](https://github.com/user-attachments/assets/c6154a2e-eed5-4f9c-8c85-4a1b21c48d4a)
 
