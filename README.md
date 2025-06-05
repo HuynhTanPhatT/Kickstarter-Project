@@ -43,14 +43,25 @@ b) Which goal range has the highest success rate?
 - `Dance` had top 1 success rate, however had a lower pledged amount than expected **85%**
 - 💡Overall, the data suggest that the **Kickstarter backers** tend to  favor **Entertainment, Creative and Art** projects(Games, Comics, Music). They show less support for categories like `Journalism` | `Photography`
 
+4. Which country has the highest number of successful campaigns?
+![image](https://github.com/user-attachments/assets/fff129fc-f25c-4c79-a29f-ce576a9b6333)
+- The United States ranks first of three ranking booards about metrics. This result is expected, because The United States is famous for its Internet and Streaming Platforms. These platforms not only help increase user engagement, but also share the clips - campaigns which boost the fundraising success
+Which countries have  high success rate despite  low number of campaigns ?
+- Luxembourg, New Zealand and Denmark achieve high success rate
+
+5. Which year had the highest success rates ?
+![image](https://github.com/user-attachments/assets/c52471f0-3b66-4102-ba7d-e090a38a2027)
 
 
-a) Are there many projects that  exceeded their funding goals?
+Từ năm 2009 - 2013: tỷ lệ thành công ổn định từ 43 - 46%. Điều này có thể là do tổng số lượng chiến dịch trong năm còn thấp  và cũng như là Kickstarter mới thành lập vào năm 2009. Đây là một dự án mới, nên cũng được nhiều người trong cộng đồng ủng hộ.
+Tuy nhiên, bắt đầu từ năm 2014 - 2016 trở đi, số  lượng dự án tăng mạnh giống năm 2011. 
+2014: Tỷ lệ giảm mạnh còn 31%, mặc dù số lượng  dự án ở trên Kickstarter gấp 1.5 lần so với 2013.
+2015: Giảm ở mức thấp nhất từ lúc ra mắt là 27%. 
+2016: Có sự cải thiện về tỷ lệ 30.26% nhưng không đáng kể.
+=>  Có vẻ như quá nhiều sản phẩm, nhưng không có sự cải tiến và đột phá  nên dẫn đến tỷ lệ thất bại tăng
 
-b) Are these failed projects failing because they don't have any backers or funding ?
-
-
-
+6. Which month has the highest successful projects ?
+![image](https://github.com/user-attachments/assets/b1ffe6c7-649a-47c2-ba3e-fc93e1b2e2ee)
 
 
 PowerBi - Visualization
