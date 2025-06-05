@@ -9,7 +9,7 @@ SQL - Brief descriptions :
 ![image](https://github.com/user-attachments/assets/3a7d8c36-ea46-4135-a41e-34c11bbca181)
 
 - Dance Projects recorded top 1 in success rate (65.85%) ~ 2104 success projects out of 3377 total projects. Although Dance had the highest success rate, but the number of projects was quite low compared to other categories.
-    => This is an intersting category and effective with the ability to fundraise.
+    -  This is an intersting category and effective with the ability to fundraise.
 
 
 “Theater” đứng vị trí thứ hai với  tổng số lượng dự án đã thực hiện cùng với các dự án thành công vượt qua về mặt số lượng so với doanh mục “Dance” (9975 - 5597)
