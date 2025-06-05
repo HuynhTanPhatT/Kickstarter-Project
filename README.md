@@ -27,7 +27,7 @@ b) Which goal range has the highest success rate?
 
 ![image](https://github.com/user-attachments/assets/c6154a2e-eed5-4f9c-8c85-4a1b21c48d4a)
 
-- **Small Goal Range [<=1,000]** had the highest success rate at **52.82%** with 25,783 successful projects
+- **Small Goal Range** had the highest success rate at **52.82%** with 25,783 successful projects
 - **Medium Goal Range** followed with a **46.5%** success rate, while its total and success projects had double values compared to Small group
 - **Large Goal Range** had the highest number of  launched projects, but only rank third in success rate **34.1%**
 - **Enterprise-Level Goal Range** only had **13%** success rates, suggesting that high goals are rarely met.
@@ -38,9 +38,9 @@ b) Which goal range has the highest success rate?
 3. What is the success rate of fundraising based on the pledged amount and the original goal ? (Pledged / Goal)
 ![image](https://github.com/user-attachments/assets/1f324c9c-074f-4811-b774-46a94ace69bf)
 - `Games` ranked one  with the average funding rate **918.72%**. This highlights the strong community and supports.
-- `Comics` and **Comics** are potential categories in KickStarter with average rates ~787%, 645%, respectively. Additionally, these categories also in top categories having the high number of successfull projects.
-- **Journalism** & **Photography** seems like difficult to raise fund which only achieved less than 70%.
-- **Dance** had top 1 success rate, however the pledged less than expected **85%**
+- `Comics` and `Comics` with average rates **787%** - **645%**, respectively. Additionally, these two categories not only raise significantly more in their targets, but also appear in top for successful projects.
+- `Journalism` & `Photography` seems like difficult to meet their funding goals (less than 70% both categories)
+- `Dance` had top 1 success rate, however had a lower pledged amount than expected **85%**
 - 💡Overall, the data suggest that the **Kickstarter backers** tend to  favor **Entertainment, Creative and Art** projects(Games, Comics, Music). They show less support for categories like `Journalism` | `Photography`
 
 
