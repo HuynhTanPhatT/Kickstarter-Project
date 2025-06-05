@@ -15,6 +15,8 @@ SQL - Brief descriptions :
 - `Art` ranked third in number of projects (21.803), fell into bottom 3 in success rate **44.38%**
 - More projects do not mean that that category has higher success rates
 
+/* 2. How does the "goal" amount affect the likelihood of success? */
+
 
 
 
