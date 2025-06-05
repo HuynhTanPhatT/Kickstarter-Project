@@ -16,7 +16,6 @@ SQL - Brief descriptions :
     - 💡More projects do not mean that that category has higher success rates
 
 2. How does the "goal" amount affect the likelihood of success?
-
 a) Are small goals under 1,000 more likely to succeed ?
 ![image](https://github.com/user-attachments/assets/76e42d0c-e226-413f-8011-e89320dd8393)
     - Small projects fundraised small goals accounts for **52.82%** - 25783 successfull projects
