@@ -51,17 +51,15 @@ Which countries have  high success rate despite  low number of campaigns ?
 
 5. Which year had the highest success rates ?
 ![image](https://github.com/user-attachments/assets/c52471f0-3b66-4102-ba7d-e090a38a2027)
-
-
-Từ năm 2009 - 2013: tỷ lệ thành công ổn định từ 43 - 46%. Điều này có thể là do tổng số lượng chiến dịch trong năm còn thấp  và cũng như là Kickstarter mới thành lập vào năm 2009. Đây là một dự án mới, nên cũng được nhiều người trong cộng đồng ủng hộ.
-Tuy nhiên, bắt đầu từ năm 2014 - 2016 trở đi, số  lượng dự án tăng mạnh giống năm 2011. 
-2014: Tỷ lệ giảm mạnh còn 31%, mặc dù số lượng  dự án ở trên Kickstarter gấp 1.5 lần so với 2013.
-2015: Giảm ở mức thấp nhất từ lúc ra mắt là 27%. 
-2016: Có sự cải thiện về tỷ lệ 30.26% nhưng không đáng kể.
-=>  Có vẻ như quá nhiều sản phẩm, nhưng không có sự cải tiến và đột phá  nên dẫn đến tỷ lệ thất bại tăng
+- 2009 - 2013: The rates remained stable between **43** and **46%**.
+- 2014 - 2016: The launched projects in Kickstarter increased dramatically like 2011, but showing the downtrend in success rates.
+    - 2014: Dropped to 31%, although number projects increased by 1.5x compared to 2013
+    - 2015: Low-water mark - 27%
+    - 2016: Slight recover to 30.26%
+- 💡The sharp rise in launched projects in Kickstarter, after 2011 many projects lacked of innovation and break-thourhg leading to higher failure rates.
 
 6. Which month has the highest successful projects ?
 ![image](https://github.com/user-attachments/assets/b1ffe6c7-649a-47c2-ba3e-fc93e1b2e2ee)
-
+- July (2014) , March (2015 - 2016) had more successfull projects than other months.
 
 PowerBi - Visualization
