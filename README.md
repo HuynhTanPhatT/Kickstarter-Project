@@ -15,7 +15,30 @@ SQL - Brief descriptions :
 - `Art` ranked third in number of projects (21.803), fell into bottom 3 in success rate **44.38%**
 - More projects do not mean that that category has higher success rates
 
-/* 2. How does the "goal" amount affect the likelihood of success? */
+2. How does the "goal" amount affect the likelihood of success?
+a) Are small goals under 1,000 more likely to succeed ?
+![image](https://github.com/user-attachments/assets/76e42d0c-e226-413f-8011-e89320dd8393)
+- Small projects fundraised small goals accounts for **52.82%** - 25783 successfull projects
+- A 5% gap between success rate and failure showing that the market is highly competitive. A "50-50" chance is risky for new project fundraisers
+    - Show clearly unique values to investor if choose large-community categories.
+    - Consider categories such as Dance or Threater,etc which have fewer projects but higher success rates.
+
+b) Which goal range has the highest success rate?
+ ![image](https://github.com/user-attachments/assets/c6154a2e-eed5-4f9c-8c85-4a1b21c48d4a)
+
+c) What project with a goal over 1000 USD has the biggest goal completion? How much money was pledged?
+
+
+
+** Mức Goal có ảnh hưởng tới khả năng thành công của một dự án gọi vốn:
+Người mới / Startups: nên bắt đầu với Goal Range (Small / Medium) vừa dễ có thể gọi vốn, mà còn có thể xây dựng tên tuổi trong cộng đồng.
+Đối với thương hiệu mà đã có cộng đồng riêng thì nên tập trung vào các Goal Range ở Medium | Large  để tăng quy mô và vẫn có tỷ lệ thành công cao.
+❌Enterprise-Level is not for beginner
+ Điều này cho thấy rằng, việc nhắm mục tiêu vào số tiền gọi vốn nhỏ có thể tăng % tỷ lệ nhận được đầu tư - - - đặc biệt là đối với các dự án mới, startups hay là đối với các dự án có ít người ủng hộ.
+ 
+
+
+
 
 
 
