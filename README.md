@@ -5,6 +5,7 @@ Python - Data Cleaning :
 SQL - Brief descriptions :
 1.  Which Category has the highest success percentage? How many projects have been successful?
 - To answer this question, i'm going to find the total projects & success projects in each category, after that filter with the average percentage rate.
+
 ![image](https://github.com/user-attachments/assets/b3de002d-eaac-486c-9c44-79f935acf337)
 
 - Dance Projects recorded top 1 in success rate (65.85%) ~ 2104 success projects out of 3377 total projects. Although Dance had the highest success rate, but the number of projects was quite low compared to other categories.
