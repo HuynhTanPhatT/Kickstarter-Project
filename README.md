@@ -23,7 +23,6 @@ SQL - Brief descriptions :
         - Show clearly unique values to investors if choose large-community categories.
         - Consider categories such as `Dance` or `Threater` which have fewer projects but higher success rates.
     b) Which goal range has the highest success rate?
-
 ![image](https://github.com/user-attachments/assets/c6154a2e-eed5-4f9c-8c85-4a1b21c48d4a)
 
 - **Small Goal Range [<=1,000]** had the highest success rate at **52.82%** with 25,783 successful projects
