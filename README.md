@@ -13,37 +13,25 @@ SQL - Brief descriptions :
 - `Comics` remained a consistent fundraising performance (**56.7%**) - 1 in every 2 projects succeeds.
 - `Music` and `Film & Video` had the highest number of projects: 41.106 & 51.128, respectively, but lower success rates, particularly `Film & Video` accounted for **41.9%**. The reason stemmed from too many projects had been launched in the past. The later projects lacked of break-through, they could not attract the fund from the investors or supports in the community.
 - `Art` ranked third in number of projects (21.803), fell into bottom 3 in success rate **44.38%**
-- More projects do not mean that that category has higher success rates
+- 💡More projects do not mean that that category has higher success rates
 
 2. How does the "goal" amount affect the likelihood of success?
 a) Are small goals under 1,000 more likely to succeed ?
 ![image](https://github.com/user-attachments/assets/76e42d0c-e226-413f-8011-e89320dd8393)
 - Small projects fundraised small goals accounts for **52.82%** - 25783 successfull projects
-- A 5% gap between success rate and failure showing that the market is highly competitive. A "50-50" chance is risky for new project fundraisers
-    - Show clearly unique values to investor if choose large-community categories.
-    - Consider categories such as Dance or Threater,etc which have fewer projects but higher success rates.
+- 💡A 5% gap between success rate and failure showing that the market is highly competitive. A "50-50" chance is risky for new project fundraisers
+    - Show clearly unique values to investors if choose large-community categories.
+    - Consider categories such as `Dance` or `Threater` which have fewer projects but higher success rates.
 
 b) Which goal range has the highest success rate?
-
- ![image](https://github.com/user-attachments/assets/c6154a2e-eed5-4f9c-8c85-4a1b21c48d4a)
-
-c) What project with a goal over 1000 USD has the biggest goal completion? How much money was pledged?
-
-
-
-** Mức Goal có ảnh hưởng tới khả năng thành công của một dự án gọi vốn:
-Người mới / Startups: nên bắt đầu với Goal Range (Small / Medium) vừa dễ có thể gọi vốn, mà còn có thể xây dựng tên tuổi trong cộng đồng.
-Đối với thương hiệu mà đã có cộng đồng riêng thì nên tập trung vào các Goal Range ở Medium | Large  để tăng quy mô và vẫn có tỷ lệ thành công cao.
-❌Enterprise-Level is not for beginner
- Điều này cho thấy rằng, việc nhắm mục tiêu vào số tiền gọi vốn nhỏ có thể tăng % tỷ lệ nhận được đầu tư - - - đặc biệt là đối với các dự án mới, startups hay là đối với các dự án có ít người ủng hộ.
- 
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/c6154a2e-eed5-4f9c-8c85-4a1b21c48d4a)
+- **Small Goal Range [<=1,000]** had the highest success rate at **52.82%** with 25,783 successful projects
+- **Medium Goal Range** followed with a **46.5%** success rate, while its total and success projects had double values compared to Small group
+- **Large Goal Range** had the highest number of  launched projects, but only rank third in success rate **34.1%**
+- **Enterprise-Level Goal Range** only had **13%** success rates, suggesting that high goals are rarely met.
+- 💡Small & Medium goal ranges shows the balance  between success rate and scale, which make them ideal and safety for **new people** or **Startups** to reach their funding targets and build a presence in the community.
+- 💡Medium & Large goal ranges are suitable for brands that have their own community to increase their project scale, but still have the high success rate for raising investment.
+- 💡Small Goal is the safe and effective starting point for newcomers in **KickStarter**
 
 
 PowerBi - Visualization
