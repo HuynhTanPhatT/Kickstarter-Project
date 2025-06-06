@@ -18,7 +18,9 @@ SQL - Brief descriptions :
 2. How does the "goal" amount affect the likelihood of success?
 
 a) Are small goals under 1,000 more likely to succeed ?
+
 ![image](https://github.com/user-attachments/assets/76e42d0c-e226-413f-8011-e89320dd8393)
+
 - Small projects fundraised small goals accounts for **52.82%** - 25783 successfull projects
 - 💡A 5% gap between success rate and failure showing that the market is highly competitive. A "50-50" chance is risky for new project fundraisers
 - Show clearly unique values to investors if choose large-community categories.
