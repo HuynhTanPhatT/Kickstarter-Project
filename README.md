@@ -42,6 +42,7 @@ b) Which goal range has the highest success rate?
 - `Comics` and `Comics` with average rates **787%** - **645%**, respectively. Additionally, these two categories not only raise significantly more in their targets, but also appear in top for successful projects.
 - `Journalism` & `Photography` seems like difficult to meet their funding goals (less than 70% both categories)
 - `Dance` had top 1 success rate, however had a lower pledged amount than expected **85%**
+  
 
 4. Which country has the highest number of successful campaigns?
 ![image](https://github.com/user-attachments/assets/0ba7006c-be14-4c12-8bf0-0a4aa2f02f55)
