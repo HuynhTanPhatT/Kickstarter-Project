@@ -53,7 +53,9 @@ Which countries have  high success rate despite  low number of campaigns ?
 - Luxembourg, New Zealand and Denmark achieve high success rate
 
 5. Which year had the highest success rates ?
+
 ![image](https://github.com/user-attachments/assets/c52471f0-3b66-4102-ba7d-e090a38a2027)
+
 - 2009 - 2013: The rates remained stable between **43** and **46%**.
 - 2014 - 2016: The launched projects in Kickstarter increased dramatically like 2011, but showing the downtrend in success rates.
     - 2014: Dropped to 31%, although number projects increased by 1.5x compared to 2013
