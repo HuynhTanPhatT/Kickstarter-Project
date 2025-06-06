@@ -1,5 +1,5 @@
 # Overview
-
+- Analyzing indicators affecting 
 # 
 Python - Data Cleaning :
 - This dataset isn’t just messy — its structure is compromised.
@@ -47,24 +47,24 @@ b) Which goal range has the highest success rate?
 - 💡Overall, the data suggest that the **Kickstarter backers** tend to  favor **Entertainment, Creative and Art** projects(Games, Comics, Music). They show less support for categories like `Journalism` | `Photography`
 
 4. Which country has the highest number of successful campaigns?
-![image](https://github.com/user-attachments/assets/fff129fc-f25c-4c79-a29f-ce576a9b6333)
-- The United States ranks first of three ranking booards about metrics. This result is expected, because The United States is famous for its Internet and Streaming Platforms. These platforms not only help increase user engagement, but also share the clips - campaigns which boost the fundraising success
+![image](https://github.com/user-attachments/assets/0ba7006c-be14-4c12-8bf0-0a4aa2f02f55)
+- The United States ranks first of two ranking boards about metrics. This result is expected, because The United States is famous for its Internet and Streaming Platforms. These platforms not only help increase user engagement, but also share the clips - campaigns which boost the fundraising success
 Which countries have  high success rate despite  low number of campaigns ?
-- Luxembourg, New Zealand and Denmark achieve high success rate
+- Mexico, Singapore, Luxembourg achieved high success rates 
 
 5. Which year had the highest success rates ?
 
-![image](https://github.com/user-attachments/assets/c52471f0-3b66-4102-ba7d-e090a38a2027)
+![image](https://github.com/user-attachments/assets/06eeb368-427e-4acd-94b9-322992e4c159)
 
-- 2009 - 2013: The rates remained stable between **43** and **46%**.
+- 2009 - 2013: The rates remained stable between **46** and **50%**.
 - 2014 - 2016: The launched projects in Kickstarter increased dramatically like 2011, but showing the downtrend in success rates.
-    - 2014: Dropped to 31%, although number projects increased by 1.5x compared to 2013
-    - 2015: Low-water mark - 27%
-    - 2016: Slight recover to 30.26%
+    - 2014: Dropped to **35%**, although number projects increased by 1.5x compared to 2013
+    - 2015: Low-water mark - **32%**
+    - 2016: Slight recover to **38.51%**
 - 💡The sharp rise in launched projects in Kickstarter, after 2011 many projects lacked of innovation and break-thourhg leading to higher failure rates.
 
 6. Which month has the highest successful projects ?
-![image](https://github.com/user-attachments/assets/b1ffe6c7-649a-47c2-ba3e-fc93e1b2e2ee)
+![image](https://github.com/user-attachments/assets/87b2b2eb-7d34-44ed-a55e-e0f84335506c)
 - July (2014) , March (2015 - 2016) had more successfull projects than other months.
 
 PowerBi - Visualization
