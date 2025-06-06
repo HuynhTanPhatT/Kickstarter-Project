@@ -8,13 +8,11 @@ Python - Data Cleaning :
 SQL - Brief descriptions :
 1.  Which Category has the highest success percentage? How many projects have been successful?
 ![image](https://github.com/user-attachments/assets/b3de002d-eaac-486c-9c44-79f935acf337)
-- `Dance` had the highest success rate at **65.85%** (2.104 successfull out of 3.377 projects). Despite its small scale only around 3.500 projects, it's a highly effective category for fundraising.
+- `Dance` had the highest success rate at **65.85%** (2.104 successfull out of 3.377 projects)
 - `Theater` ranked second with a success rate at **64.2%** - total projects launched was higher than Dance (9.340 projects)
 - `Comics` remained a consistent fundraising performance (**56.7%**) - 1 in every 2 projects succeeds.
  - `Music` and `Film & Video` had the highest number of projects: 41.106 & 51.128, respectively, but lower success rates, particularly `Film & Video` accounted for **41.9%**. The reason stemmed from too many projects had been launched in the past. The later projects lacked of break-through, they could not attract the fund from the investors or supports in the community.
 - `Art` ranked third in number of projects (21.803), fell into bottom 3 in success rate **44.38%**
-- 💡More projects do not mean that that category has higher success rates
-
 2. How does the "goal" amount affect the likelihood of success?
 
 a) Are small goals under 1,000 more likely to succeed ?
@@ -44,7 +42,6 @@ b) Which goal range has the highest success rate?
 - `Comics` and `Comics` with average rates **787%** - **645%**, respectively. Additionally, these two categories not only raise significantly more in their targets, but also appear in top for successful projects.
 - `Journalism` & `Photography` seems like difficult to meet their funding goals (less than 70% both categories)
 - `Dance` had top 1 success rate, however had a lower pledged amount than expected **85%**
-- 💡Overall, the data suggest that the **Kickstarter backers** tend to  favor **Entertainment, Creative and Art** projects(Games, Comics, Music). They show less support for categories like `Journalism` | `Photography`
 
 4. Which country has the highest number of successful campaigns?
 ![image](https://github.com/user-attachments/assets/0ba7006c-be14-4c12-8bf0-0a4aa2f02f55)
