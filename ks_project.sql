@@ -156,7 +156,7 @@ select	country,
 		count(country) as total_projects,
 		sum(case when state = 'successful' then 1 else 0 end) as success_projects,
 		round(sum(case when state = 'successful' then 1 else 0 end) * 100.0 / count(country),2) as success_rate_per_country
-from dbo.Cl_kicks_2016
+from dbo.kicks_2016_copy
 group by country
 )
 select	*,
@@ -165,7 +165,6 @@ select	*,
 		DENSE_RANK() over (order by success_rate_per_country desc) as rank_success_rate
 from country_projects
 order by success_projects desc;
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 /* 5. Which year had the highest success rates ? */
@@ -174,7 +173,7 @@ select	year(cast(launched as date)) as launched_year_camp,
 		month(cast(launched as date)) as launched_month_camp,
 		count(*) as total_projects,
 		sum(case when state = 'successful' then 1 else 0 end) as success_projects
-from dbo.Cl_kicks_2016
+from dbo.kicks_2016_copy
 group by year(cast(launched as date)), month(cast(launched as date))
 )
 select *
