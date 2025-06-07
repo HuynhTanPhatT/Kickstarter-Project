@@ -32,9 +32,7 @@ b) Which goal range has the highest success rate?
 - **Medium Goal Range** followed with a **46.5%** success rate, while its total and success projects had double values compared to Small group
 - **Large Goal Range** had the highest number of  launched projects, but only rank third in success rate **34.1%**
 - **Enterprise-Level Goal Range** only had **13%** success rates, suggesting that high goals are rarely met.
-- 💡Small & Medium goal ranges shows the balance  between success rate and scale, which make them ideal and safety for **new people** or **Startups** to reach their funding targets and build a presence in the community.
-- 💡Medium & Large goal ranges are suitable for brands that have their own community to increase their project scale, but still have the high success rate for raising investment.
-- 💡Small Goal is the safe and effective starting point for newcomers in **KickStarter**
+
 
 3. What is the success rate of fundraising based on the pledged amount and the original goal ? (Pledged / Goal)
 ![image](https://github.com/user-attachments/assets/1f324c9c-074f-4811-b774-46a94ace69bf)
