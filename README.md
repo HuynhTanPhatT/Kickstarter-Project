@@ -17,7 +17,7 @@ SQL - Questions :
 
 
 PowerBi - Visualization:
-![image](https://github.com/user-attachments/assets/fb81c9d3-8c20-4546-acf2-d1c85dcacfe1)
-![image](https://github.com/user-attachments/assets/4b005ccc-5e2d-4fce-b6ee-19f539e7768a)
+![image](https://github.com/user-attachments/assets/2526316d-f6c3-410d-8210-225b78a1122c)
+![image](https://github.com/user-attachments/assets/cfada89c-87b9-427f-8466-34d4b1a61205)
 
 
