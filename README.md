@@ -1,4 +1,4 @@
-# Overview
+# Kickstarter Projects: Analysis
 - Analyzing indicators affecting 
 # 
 Python - Data Cleaning :
