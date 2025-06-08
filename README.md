@@ -5,7 +5,7 @@ Python - Data Cleaning :
 - This dataset isn’t just messy — its structure is compromised.
 - The misalignment likely stems from commas (',') inside the name column during import. These commas are misinterpreted as delimiters, causing data to shift into the wrong columns.
 
-SQL - Brief descriptions :
+SQL - Questions :
 1.  Which Category has the highest success percentage? How many projects have been successful?
 2. How does the "goal" amount affect the likelihood of success?
  - a) Are small goals under 1,000 more likely to succeed ?
