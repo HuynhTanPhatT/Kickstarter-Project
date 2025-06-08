@@ -16,4 +16,8 @@ SQL - Questions :
 6. Which month has the highest successful projects ?
 
 
-PowerBi - Visualization
+PowerBi - Visualization:
+![image](https://github.com/user-attachments/assets/fb81c9d3-8c20-4546-acf2-d1c85dcacfe1)
+![image](https://github.com/user-attachments/assets/4b005ccc-5e2d-4fce-b6ee-19f539e7768a)
+
+
