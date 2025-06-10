@@ -12,6 +12,7 @@ SQL - Questions :
  - b) Which goal range has the highest success rate?
 3. What is the success rate of fundraising based on the pledged amount and the original goal ? (Pledged / Goal)
 4. Which country has the highest number of successful campaigns?
+![image](https://github.com/user-attachments/assets/0ba7006c-be14-4c12-8bf0-0a4aa2f02f55)
 5. Which year had the highest success rates ?
 6. Which month has the highest successful projects ?
 
