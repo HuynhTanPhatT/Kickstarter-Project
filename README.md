@@ -12,9 +12,9 @@ SQL - Questions (All Country):
  - a) Are small goals under 1,000 more likely to succeed ?: Small projects fundraised small goals accounts for **52.82%** - 25783 successfull projects
  - b) Which goal range has the highest success rate?: **Small Goal Range** had the highest success rate at **52.82%** with 25,783 successful projects
 3. What is the success rate of fundraising based on the pledged amount and the original goal ? (Pledged / Goal)
-4. Which country has the highest number of successful campaigns?
-5. Which year had the highest success rates ?
-6. Which month has the highest successful projects ?
+4. Which country has the highest number of successful campaigns?: US
+5. Which year had the highest success rates ?: 2009 - 2013
+6. Which month has the highest successful projects ?: July (2014) , March (2015 - 2016) had more successfull projects than other months.
 
 
 PowerBi - Visualization:
