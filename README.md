@@ -8,9 +8,9 @@ Python - Data Cleaning :
 
 SQL - Questions :
 1.  Which Category has the highest success percentage? How many projects have been successful? : `Dance` had the highest success rate at **65.85%** (2.104 successfull out of 3.377 projects)
-2. How does the "goal" amount affect the likelihood of success?
- - a) Are small goals under 1,000 more likely to succeed ?
- - b) Which goal range has the highest success rate?
+2. How does the "goal" amount affect the likelihood of success?: Small & Medium Goal
+ - a) Are small goals under 1,000 more likely to succeed ?: Small projects fundraised small goals accounts for **52.82%** - 25783 successfull projects
+ - b) Which goal range has the highest success rate?: **Small Goal Range** had the highest success rate at **52.82%** with 25,783 successful projects
 3. What is the success rate of fundraising based on the pledged amount and the original goal ? (Pledged / Goal)
 4. Which country has the highest number of successful campaigns?
 5. Which year had the highest success rates ?
