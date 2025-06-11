@@ -6,7 +6,7 @@ Python - Data Cleaning :
 - This dataset isn’t just messy — its structure is compromised.
 - The misalignment likely stems from commas (',') inside the name column during import. These commas are misinterpreted as delimiters, causing data to shift into the wrong columns.
 
-SQL - Questions :
+SQL - Questions (All Country):
 1.  Which Category has the highest success percentage? How many projects have been successful? : `Dance` had the highest success rate at **65.85%** (2.104 successfull out of 3.377 projects)
 2. How does the "goal" amount affect the likelihood of success?: Small & Medium Goal
  - a) Are small goals under 1,000 more likely to succeed ?: Small projects fundraised small goals accounts for **52.82%** - 25783 successfull projects
