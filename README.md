@@ -10,12 +10,13 @@
 5. **Year Analysis**: 2015 is the active and vibrant year with highest amount of projects and in parallel 2015 have the worst failed projects
 6. **Month Analysis**: March - September have high total number of launched projects
 # Recommendations
-1.
-2.
+1. Set the right funding goal
+2. Conduct verifying a project of a category based on some criterions: subcategory, success rate, pledge fund rate, evaluation status
 3. 
 ![image](https://github.com/user-attachments/assets/2b9a4406-1299-496b-abac-f66ee1e33f8d)
 ![image](https://github.com/user-attachments/assets/f4365d56-ea0a-436e-8f5f-de5a2a7aac06)
-![image](https://github.com/user-attachments/assets/1e150315-d47d-4a9d-b240-6b43ffee9d35)
+![image](https://github.com/user-attachments/assets/632691c0-1eb6-4698-bc16-aafe0f637283)
+
 
 
 
