@@ -2,7 +2,7 @@
 - Analyzing indicators affecting to Success Rate.
 # 
 Key Insights
-1. 
+- 1. 
 2.
 Recommendations
 1.
