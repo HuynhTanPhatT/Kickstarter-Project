@@ -11,11 +11,11 @@
 6. **Month Analysis**: March - September have high total number of launched projects
 # Recommendations
 - **Project Creators**:
-    1. Aim to Small - Medium Goal (8K - 25K) to increase the success rate
-    2. Begin with Entertainment - Creative Category is a great option, because of success rate - low total projects.  
+    - Aim to Small - Medium Goal (8K - 25K) to increase the success rate
+    - Begin with Entertainment - Creative Category is a great option, because of success rate - low total projects.  
 - **Backers**:
-    1. Priority investing on projects which have status **Investment-Worthy** and in Small - Medium Goal
-    2. Focus on February -April which are golden time when the success rate is high and the behavior of community is active.
+    - Priority investing on projects which have status **Investment-Worthy** and in Small - Medium Goal
+    - Focus on February -April which are golden time when the success rate is high and the behavior of community is active.
 # Conclusion
 The data shows that Kickstarter projects demand clear strategies: when `the time`, `funding goal` and `suitable categories - subcategories` are **key resulting to a successful project for Project Creators and Backers (Investors).**
 
