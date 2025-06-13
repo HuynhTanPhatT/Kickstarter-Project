@@ -71,7 +71,7 @@ select	main_category,
 		goal, backers, pledged,
 		(case
 		when goal <= 1000 then 'Small'
-		when goal <= 5000 then 'Medium'
+		when goal <= 10000 then 'Medium'
 		when goal <= 50000 then 'Large'
 		else 'Enterprise-Level' end) as goal_range,
 		state
