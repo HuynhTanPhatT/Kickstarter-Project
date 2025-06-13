@@ -12,7 +12,7 @@
 # Recommendations
 - **Project Creators**:
     - Aim to Small - Medium Goal (8K - 25K) to increase the success rate
-    - Begin with Entertainment - Creative Category is a great option, because of success rate - low total projects.  
+    - Begin with Entertainment - Creative Category is a great option, because of high success rate & low total projects.  
 - **Backers**:
     - Priority investing on projects which have status **Investment-Worthy** and in Small - Medium Goal
     - Focus on February -April which are golden time when the success rate is high and the behavior of community is active.
