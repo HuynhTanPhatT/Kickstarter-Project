@@ -1,4 +1,4 @@
-SQL - Brief descriptions :
+SQL - All Country:
 1.  Which Category has the highest success percentage? How many projects have been successful?
 ![image](https://github.com/user-attachments/assets/b3de002d-eaac-486c-9c44-79f935acf337)
 - `Dance` had the highest success rate at **65.85%** (2.104 successfull out of 3.377 projects)
