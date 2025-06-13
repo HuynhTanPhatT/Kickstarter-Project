@@ -1,10 +1,11 @@
 # Kickstarter Projects in US: Analysis
-- Analyzing indicators affecting to Success Rate.
-# 
-Key Insights
-- 1. 
-2.
-Recommendations
+- The analysis aims to uncover the factors helping a crowfunding project on Kickstater success, from that giving the suggests to newcomers, newstartups, to increase the success rate to reach the funding goal.
+- Target: Project Creators, Backers (Investors)
+- Area: United States - rank first of total launched projects and success rates compared to other countries.
+# Key Insights
+1. 2
+2.  3 
+#Recommendations
 1.
 2.
 3. 
