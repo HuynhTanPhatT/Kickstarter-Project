@@ -3,9 +3,13 @@
 - Target: Project Creators, Backers (Investors)
 - Area: United States - rank first of total launched projects and success rates compared to other countries.
 # Key Insights
-1. 2
-2.  3 
-#Recommendations
+1. **Category**: Dance achieves the highest success rate 68%
+2. **Subcategory**: Letterpress(Craft) stands on the first of success rate 85%, although Craft category only humbly have 27%
+3. **Goal Range**: Small & Medium Goal account the majority
+4. **Distribution Days**: Majority of project lanches fall  within the range of 28 - 37 days
+5. **Year Analysis**: 2015 is the active and vibrant year with highest amount of projects and in parallel 2015 have the worst failed projects
+6. **Month Analysis**: March - September have high total number of launched projects
+# Recommendations
 1.
 2.
 3. 
