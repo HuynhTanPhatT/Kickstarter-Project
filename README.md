@@ -19,7 +19,7 @@
 # Conclusion
 The data shows that Kickstarter projects demand clear strategies: when `the time`, `funding goal` and `suitable categories - subcategories` are **key resulting to a successful project for Project Creators and Backers (Investors).**
 
-![image](https://github.com/user-attachments/assets/2b9a4406-1299-496b-abac-f66ee1e33f8d)
+![image](https://github.com/user-attachments/assets/08b035ac-c133-4328-989b-2fc43aa8d71f)
 ![image](https://github.com/user-attachments/assets/f4365d56-ea0a-436e-8f5f-de5a2a7aac06)
 ![image](https://github.com/user-attachments/assets/d62a6858-9853-4cf7-9156-03755c252c51)
 
