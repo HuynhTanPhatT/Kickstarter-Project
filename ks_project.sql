@@ -150,7 +150,6 @@ order by backers desc,pct_pledged desc;
 
 
 /* 4. Which country has the highest number of successful campaigns? */
-----Which countries have a high success rate despite a low number of campaigns?
 with country_projects as (
 select	country,
 		count(country) as total_projects,
