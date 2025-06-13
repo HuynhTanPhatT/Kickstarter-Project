@@ -17,7 +17,15 @@
     - Priority investing on projects which have status **Investment-Worthy** and in Small - Medium Goal
     - Focus on February -April which are golden time when the success rate is high and the behavior of community is active.
 # Conclusion
-The data shows that Kickstarter projects demand clear strategies: when `the time`, `funding goal` and `suitable categories - subcategories` are **key resulting to a successful project for Project Creators and Backers (Investors).**
+The data shows that Kickstarter projects demand clear strategies: 
+    - `The success rate of subcategoreries`, `Pledged rate`
+    - `Launched project month`
+    - `Goal Range`
+    - `Durations`
+    - `Backers`
+    - `Suitable categories - subcategories` 
+    - `Success rate + pledged fund rate + Evaluation Status`
+are **key resulting to a successful project for Project Creators and Backers (Investors).**    
 
 ![image](https://github.com/user-attachments/assets/7e321d03-64ee-4c69-bf24-4562158150a8)
 ![image](https://github.com/user-attachments/assets/f4365d56-ea0a-436e-8f5f-de5a2a7aac06)
