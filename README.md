@@ -28,9 +28,10 @@ The data shows that Kickstarter projects demand clear strategies:
 
 are **key resulting to a successful project for Project Creators and Backers (Investors).**    
 
-![image](https://github.com/user-attachments/assets/7e321d03-64ee-4c69-bf24-4562158150a8)
-![image](https://github.com/user-attachments/assets/f4365d56-ea0a-436e-8f5f-de5a2a7aac06)
-![image](https://github.com/user-attachments/assets/d62a6858-9853-4cf7-9156-03755c252c51)
+![Screenshot 2025-06-13 175503](https://github.com/user-attachments/assets/5df6b617-a337-4105-be5b-85d7915a7790)
+![Screenshot 2025-06-14 220027](https://github.com/user-attachments/assets/49bd24a6-f71e-4fdc-9df4-b7e05f73f4be)
+![Screenshot 2025-06-14 220045](https://github.com/user-attachments/assets/9f91462b-ec58-406d-9321-b67e0cc32af9)
+
 
 
 
