@@ -1,4 +1,4 @@
-# Kickstarter Projects in US: Analysis
+# Kickstarter Projects in US: Analysis (2009 - 2016)
 - The analysis aims to uncover the factors helping a crowfunding project on Kickstater success, from that giving the suggests to newcomers, newstartups, to increase the success rate to reach the funding goal.
 - Target: Project Creators, Backers (Investors)
 - Area: United States - rank first of total launched projects and success rates compared to other countries.
