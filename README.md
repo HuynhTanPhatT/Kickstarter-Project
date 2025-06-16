@@ -23,7 +23,7 @@ The data shows that Kickstarter projects demand clear strategies:
 - `Goal Range`
 - `Durations`
 - `Backers`
-- `Suitable categories - subcategories` 
+- `Suitable categories & subcategories` 
 - `Success rate + pledged fund rate + Evaluation Status`
 
 are **key resulting to a successful project for Project Creators and Backers (Investors).**    
